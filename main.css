@@ -1,0 +1,55 @@
+#container{
+    position: absolute;
+    display: flex;
+    width:100%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+#left_banner{
+    position: relative;
+    width: 40%;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#right_banner{
+    position: relative;
+    width: 60%;
+    height: 100%;
+    align-items: right;
+    background-color: blue;    
+}
+
+.imagen{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;    
+    margin-top: 10%;
+}
+
+#personalInfo{
+    background-color: brown;    
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;    
+    
+}
+
+.label{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-justify: distribute;
+
+}
+
+.label2{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    text-justify: distribute;
+}
