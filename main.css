@@ -11,7 +11,7 @@
     height: 100%;
     align-items: center;
     text-align: center;
-    background-color: aquamarine;
+    background-color: #ffffff;
 }
 
 #right_banner{
@@ -19,7 +19,7 @@
     width: 60%;
     height: 100%;
     align-items: right;
-    background-color: blue;    
+    background-color: #ffffff;    
 }
 
 .imagen{
@@ -30,7 +30,7 @@
 }
 
 #personalInfo{
-    background-color: brown;    
+    background-color: #79dad9;    
     position: relative;
     margin-left: 10%;
     margin-right: 10%;    
@@ -58,7 +58,7 @@
     white-space: nowrap !important;*/
     text-align: left;
     width: 80%;
-    background-color: brown;
+    background-color: #79dad9;
     margin-left: 10%;
     margin-top: 10%;
 }
@@ -71,7 +71,7 @@
     background-color: greenyellow;
 }*/
 
-.icono{
+.icono{    
     white-space: nowrap;
     position: relative;    
     width:25px;
@@ -79,7 +79,7 @@
 }
 
 #personalInfo2{
-    background-color: purple;    
+    background-color: #79dad9;        
     position: relative;
     margin-left: 10%;
     margin-right: 10%;    
